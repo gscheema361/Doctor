@@ -1,0 +1,37 @@
+<svg id="calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9.457" height="9.435" viewBox="0 0 9.457 9.435">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset="1" stop-color="#2970ae"/>
+    </linearGradient>
+  </defs>
+  <g id="Icon-Calendar">
+    <path id="Fill-133" d="M-11.528-456.307h-7.531a.95.95,0,0,1-.941-.941v-6.911a.872.872,0,0,1,.792-.941h.471v.62h-.471c-.064,0-.15.128-.15.321v6.911a.329.329,0,0,0,.321.321h7.531a.329.329,0,0,0,.321-.321v-6.911c0-.193-.107-.321-.15-.321h-.471v-.62h.471a.887.887,0,0,1,.792.941v6.911a1.018,1.018,0,0,1-.984.941" transform="translate(20 465.742)" fill="url(#linear-gradient)"/>
+    <path id="Fill-134" d="M-10.879-466.2a.329.329,0,0,1-.321-.321v-1.262a.329.329,0,0,1,.321-.321.329.329,0,0,1,.321.321v1.262a.345.345,0,0,1-.321.321" transform="translate(13.083 468.1)" fill="url(#linear-gradient)"/>
+    <path id="Fill-135" d="M12.521-466.2a.329.329,0,0,1-.321-.321v-1.262a.329.329,0,0,1,.321-.321.329.329,0,0,1,.321.321v1.262a.329.329,0,0,1-.321.321" transform="translate(-5.311 468.1)" fill="url(#linear-gradient)"/>
+    <path id="Fill-136" d="M-5.3-465.1h3.124v.642H-5.3Z" transform="translate(8.445 465.742)" fill="url(#linear-gradient)"/>
+    <path id="Fill-137" d="M-17.1-456.3h8.173v.642H-17.1Z" transform="translate(17.72 458.824)" fill="url(#linear-gradient)"/>
+    <path id="Fill-138" d="M15.2-450.4h.62v.62H15.2Z" transform="translate(-7.669 454.187)" fill="url(#linear-gradient)"/>
+    <path id="Fill-139" d="M9.3-450.4h.642v.62H9.3Z" transform="translate(-3.031 454.187)" fill="url(#linear-gradient)"/>
+    <path id="Fill-140" d="M3.5-450.4h.62v.62H3.5Z" transform="translate(1.528 454.187)" fill="url(#linear-gradient)"/>
+    <path id="Fill-141" d="M-2.4-450.4h.62v.62H-2.4Z" transform="translate(6.166 454.187)" fill="url(#linear-gradient)"/>
+    <path id="Fill-142" d="M-8.3-450.4h.642v.62H-8.3Z" transform="translate(10.803 454.187)" fill="url(#linear-gradient)"/>
+    <path id="Fill-143" d="M15.2-444.5h.62v.62H15.2Z" transform="translate(-7.669 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-144" d="M9.3-444.5h.642v.62H9.3Z" transform="translate(-3.031 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-145" d="M3.5-444.5h.62v.62H3.5Z" transform="translate(1.528 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-146" d="M-2.4-444.5h.62v.62H-2.4Z" transform="translate(6.166 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-147" d="M-8.3-444.5h.642v.62H-8.3Z" transform="translate(10.803 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-148" d="M-14.1-444.5h.62v.62h-.62Z" transform="translate(15.362 449.549)" fill="url(#linear-gradient)"/>
+    <path id="Fill-149" d="M15.2-438.7h.62v.642H15.2Z" transform="translate(-7.669 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-150" d="M9.3-438.7h.642v.642H9.3Z" transform="translate(-3.031 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-151" d="M3.5-438.7h.62v.642H3.5Z" transform="translate(1.528 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-152" d="M-2.4-438.7h.62v.642H-2.4Z" transform="translate(6.166 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-153" d="M-8.3-438.7h.642v.642H-8.3Z" transform="translate(10.803 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-154" d="M-14.1-438.7h.62v.642h-.62Z" transform="translate(15.362 444.99)" fill="url(#linear-gradient)"/>
+    <path id="Fill-155" d="M9.3-432.8h.642v.62H9.3Z" transform="translate(-3.031 440.352)" fill="url(#linear-gradient)"/>
+    <path id="Fill-156" d="M3.5-432.8h.62v.62H3.5Z" transform="translate(1.528 440.352)" fill="url(#linear-gradient)"/>
+    <path id="Fill-157" d="M-2.4-432.8h.62v.62H-2.4Z" transform="translate(6.166 440.352)" fill="url(#linear-gradient)"/>
+    <path id="Fill-158" d="M-8.3-432.8h.642v.62H-8.3Z" transform="translate(10.803 440.352)" fill="url(#linear-gradient)"/>
+    <path id="Fill-159" d="M-14.1-432.8h.62v.62h-.62Z" transform="translate(15.362 440.352)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

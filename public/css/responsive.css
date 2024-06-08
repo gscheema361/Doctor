@@ -1,0 +1,255 @@
+body
+{
+    overflow-x: hidden;
+}
+
+@media screen and (min-width: 1440px)
+{
+ 
+}
+
+@media screen and (max-width: 1280px)
+{
+	.dr-tl-pic img { height: 160px; object-fit: cover}
+	
+	p a.cancel_req, p a.pending_req{margin-bottom:10px;}
+
+}
+
+@media screen and (max-width: 1024px){
+	
+	
+	.top-login-btn button {
+    padding: 10px 7px;
+    min-width: 100px;
+    margin-left: 0px;
+    margin-top: 15px;
+    font-family: 'Poppins-Regular';
+    box-shadow: 0px 0px 12px 1px #ccc;
+    font-size: 14px;
+}
+	
+	section.subscribe-sec .col-md-4.email_txt { max-width: 100%; flex: 100%;}
+	
+.app_dwnld_cnt { padding: 80px 35px;}
+	
+.app_image img {  top: -180px; right: 40px;}
+
+.news-detail{    max-width: 280px; left: 10px;}
+
+.over-doc input{width: 200px}
+
+.col-md-8.my_pat_dtl .col-md-4 { max-width: 50%; flex: 50%;}
+
+.doctor-staus .col-md-4.dr_area { max-width: 50%; flex: 50%;}
+
+.about-txt h3{font-size: 45px; margin-bottom: 15px;}
+
+.news-pic img.news-p{object-fit: cover; height: 300px;}
+
+.checkout_text h4 { font-size: 16px;}
+
+.checkout_text p{font-size:14px;}
+
+.checkout_text p.rate_chk{font-size:14px;}
+
+.checkout_text p.rate_chk a i.fa {  font-size: 14px; }
+
+.appoinment-area .appt_img img { width: 160px; height: 160px; object-fit: contain; margin-right: 15px;}
+
+.appt_text p { font-size: 14px;}
+
+.appoinment-area .appt_text p span img{ width: 16px; height: 16px;}
+
+.appoinment-area .appt_text h4 { margin-bottom: 0px; font-size: 20px;}
+
+}
+
+@media screen and (max-width: 997px){ 
+
+header .col-md-9 { max-width: 100%; flex: 100%;}
+
+header .col-md-3 { max-width: 100%; flex: 100%;}
+
+.top-login-btn{text-align:center;}
+
+.top-login-btn button{margin-bottom: 15px; min-width: 150px;  margin-left: 10px;}
+	
+}
+
+@media screen and (max-width: 768px){
+	
+	section.subscribe-sec button{width:auto;}
+	
+	section.subscribe-sec .col-md-4.email_txt { max-width: 100%; flex: 100%;}
+	
+	.app_image img { top: -144px; right: 20px;}
+	
+	p.app_icon_dwld a img { width: 200px;  margin-bottom: 10px;}
+	
+	.home_blog .had-news .news-text h4{font-size:20px;}
+	
+	.home_blog .news-detail{left:0;}
+	
+	.home_blog .news-pic img.news-p{object-fit: cover; height: 230px;}
+	
+	.home_blog .news-detail .ndl-txt label{font-size:16px;}
+	
+	.home_blog .news-detail .news-detail .ndl-txt span{font-size:14px;}
+	
+	.home_blog .news-detail img { width: 40px; height: 40px; object-fit:contain;}
+	
+	.blog_pg_bx .col-md-4.blog_sec_bx { max-width: 50%; flex: 50%;}
+	
+	.over-doc input {  width: 110px;}
+	
+	.filter-sec input{width: 90%}
+	
+		a.sel_gender{margin-right:5px;}
+
+		.doctor-staus .col-md-4.dr_area {  max-width: 50%; flex: 50%;}
+		
+		.fav_dr_info span{float:none;  display:block; margin-top:10px;}
+		
+		a.custombtn.dr_pf_vw, a.custombtn1.dr_bk_apt{width:100%; margin-left:0px; margin-bottom:15px;}
+	
+	    .fav_dr_img img {  height: 250px;  object-fit: cover;}
+		
+		section.news-sec .col-md-4.blog_news { max-width: 50%; flex: 50%;}
+
+		.checkout_img{margin-bottom:20px;}
+		
+		.user_img_1 img { width: 50px; height: 50px; object-fit: cover; border-radius: 50px; }
+
+}
+
+@media screen and (max-width: 767px){
+	
+	section.hom-bnr{background-image:none;}
+	
+
+	.google_map { margin-bottom: 30px;}
+	
+	.contact_area{margin-bottom:25px;}
+	
+	.doctor-staus .col-md-4.dr_area { max-width: 100%; flex: 100%;}
+	
+	.booking_dtl_cal .form-group{float:none; width:100%; margin-top:20px;}
+	
+	section.news-sec .col-md-4.blog_news { max-width: 100%; flex: 100%;}
+	
+	.about-txt h3{font-size:32px; line-height:50px; margin-bottom: 15px;}
+	
+	section.medi-serv .med-txt h2{font-size:32px;}
+	
+	.sec-had-txt h3{font-size:32px;}
+	
+	.news-pic img.news-p{object-fit: cover;}
+	
+.invoice_design.right_d{text-align:left;}
+	
+.appointment_text img{margin-bottom:0px;}
+	
+.login_header p a { color: #000; font-size: 16px;}
+
+ form.login_form input.form-control{padding:10px 0px;}
+ 
+ .digit-group input[type="text"]{width: 60px; height: 60px; margin: 10px 4px;}
+
+.top-login-btn{ text-align: center;  margin-top: 15px;  margin-bottom: 15px;}
+
+section.departs .inr-depart{border-right:none;}
+	
+	
+}
+
+@media screen and (max-width: 540px){
+	
+	.app_dwnld_cnt { padding: 108px 35px;}
+	
+	.app_image{display:none;}
+	
+	.home_blog .news-detail { left: 10px;}
+	
+	ul.patient_tabs_dbrd li{margin-bottom:25px;}
+	
+	.blog_pg_bx .col-md-4.blog_sec_bx { max-width: 100%; flex: 100%;}
+	
+	.User_cmt_text{margin-top:20px;}
+	
+	.User_cmt_text span{font-size:16px;}
+	
+	.comment_2nd_user{margin-left: 15px;}
+	
+	.col-md-12.all-review-tabs .nav-tabs .nav-link { font-size: 16px;}
+	
+	.social-feed .right-hrs{float:none;}
+	
+	.social-feed ul.fed-list{text-align:left;}
+	
+	.col-md-8.my_pat_dtl .col-md-4 {  max-width: 100%; flex:100%;}
+	
+	.filter-sec input{width: 85%;}
+	
+	.doctor-staus { margin-top: 30px;}
+		
+  .dr-tl-pic img { width: auto;}
+  
+  .dr_user_up{display: block !important;}
+  
+  .dr_img_upld { margin-bottom: 15px;}
+  
+  .doctor-staus .row.user_cmt-2 {  margin-left: 15px;}
+  
+}
+
+@media screen and (max-width: 420px)
+{
+  .filter-sec input{width: 70%;}
+  
+  p.apt-btn.req-acpt { margin-top: 15px;}
+  
+  .app_dwnld_cnt {padding: 45px 35px;}
+  
+
+
+  
+}
+
+
+@media screen and (max-width: 360px)
+{
+  .user_rating{float:none;}
+  
+
+
+  
+}
+
+
+
+@media screen and (max-width: 320px){
+	
+	.app_dwnld_cnt h2 { line-height: 36px; font-size: 26px;}
+	
+	a.custombtn {font-size: 16px;}
+	
+	.custombtn1{font-size: 16px;}
+	
+	.user_rating{float:none;}
+	
+	a.custombtn.dr_pf_vw, a.custombtn1.dr_bk_apt {width:100%; margin-bottom:20px; margin-left:0px;}
+	
+	.news-detail { max-width: 280px; left: 2px;}
+	
+	.social-feed ul.fed-list li{margin-left: 10px;}
+	
+  .filter-sec input{width: 70%;}
+  
+  .checkout_img {  margin-bottom: 20px; width: 100%;}
+  
+  ul.select-day li a{margin-right:5px;}
+  
+  
+}
+
